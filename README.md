@@ -1,5 +1,5 @@
 <!--![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)-->
-<img src="mahfuz3026.zip/mahfuz.jpg" alt="miraz">
+<img src="HCRB/paris.jpg" alt="miraz">
 
 
 <h1 align="center">Hi 👋, I'm MAHFUZUR RAHMAN(Miraz)</h1>
