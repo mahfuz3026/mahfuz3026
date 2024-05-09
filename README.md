@@ -1,4 +1,4 @@
-![I am mahfuz3026](https://github.com/mahfuz3026/mahfuz3026/blob/main/code.png)
+![I am mahfuz3026](https://github.com/mahfuz3026/mahfuz3026/blob/main/mahfuz.jpg)
 
 <h1 align="center">Hi 👋, I'm MAHFUZUR RAHMAN(Miraz)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
