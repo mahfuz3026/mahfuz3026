@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mahfuz3026&color=red)
 
-Skills: HTML / CSS
+Skills:  - HTML / - CSS
 
 </div>
 
