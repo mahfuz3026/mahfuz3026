@@ -1,4 +1,5 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+<!--![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)-->
+
 
 <h1 align="center">Hi 👋, I'm MAHFUZUR RAHMAN(Miraz)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
@@ -8,13 +9,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mahfuz3026&color=red)
 
-Skills:  - HTML / - CSS
+Skills:  / HTML / CSS
 
 </div>
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning html /css/
+- 🌱 I’m currently learning  /html /css/
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahfuz3026](https://github.com/mahfuz3026)
 
@@ -24,7 +25,7 @@ Skills:  - HTML / - CSS
 
 - 📫 How to reach me **miraz1hasan840@gmail.com**
 
-- 📄 All About Me:[)
+- 📄 All About Me:
 
 <h3 align="left">Connect with me:</h3>
 
