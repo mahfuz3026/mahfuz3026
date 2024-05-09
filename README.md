@@ -1,5 +1,4 @@
-<!--![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)-->
-![I am mahfuz3026](https://github.com/mahfuz3026/mahfuz.jpg)
+![I am harun181](https://github.com/harun181/harun181/blob/main/mahfuz.jpg)
 
 <h1 align="center">Hi 👋, I'm MAHFUZUR RAHMAN(Miraz)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
